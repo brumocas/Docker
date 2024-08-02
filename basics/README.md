@@ -1,7 +1,3 @@
-Sure, here’s a README file that covers basic Docker commands:
-
----
-
 # Docker Basic Commands
 
 Welcome to the Docker Basic Commands guide! This README provides a comprehensive list of essential Docker commands to help you get started with containerization. Docker enables you to develop, ship, and run applications inside containers efficiently.
