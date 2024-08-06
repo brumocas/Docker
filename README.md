@@ -80,7 +80,7 @@ If you have suggestions or improvements for this course, feel free to open an is
 
 ## License
 
-This course is licensed under the MIT License.
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
 
