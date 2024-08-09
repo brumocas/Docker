@@ -111,6 +111,10 @@ Run the container with GPU support enabled by executing the shell script:
 - `host_path`: Host directory to mount inside the container.
 - `container_path`: Container path to mount.
 
+### Example
+
+Check a complete example in the following [DOPE](https://github.com/brumocas/DOPE/tree/main/train/docker) git repository.
+
 ### Conclusion
 
 By following this guide, you can set up a Docker container with GPU support and train your machine learning model in a consistent and accelerated environment. This approach ensures that your development environment is reproducible and leverages the power of GPUs to speed up the training process.
