@@ -52,7 +52,9 @@ FROM pytorch/pytorch:2.4.0-cuda11.8-cudnn9-runtime
 
 # Install git and other dependencies
 RUN apt-get update && \
-    apt-get install -y git
+    apt-get install -y \
+    libglib2.0-0 \
+    git
 
 # Clone your machine learning project repository
 RUN git clone https://github.com/<your_username>/<your_repository>.git /workspace/<your_repository>
